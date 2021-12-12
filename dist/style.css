@@ -1,0 +1,92 @@
+* 
+#main{
+  background-color: #FBFBEF;
+  color: #3B240B;
+}
+
+#title{
+  text-align: center;
+  font-family: lobster;
+  font-size: 35px;
+  position: relative;
+  background-color: #F6E3CE;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border-radius: 20px;
+
+}
+
+#subtitle{
+  text-align: center;
+  font-family: Verdana;
+  font-size: 18px;
+ background-color: #F6E3CE;
+  padding: 0px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 20px;
+}
+
+#image{
+  width: 1500px;
+  object-fit: cover;
+  border-radius: 80px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  
+}
+  
+#img-caption{
+   text-align: center;
+  font-size: 18px;
+}
+
+#creditos{
+    text-align: center;
+}
+
+.tribute-info{
+ text-align: center;
+  background-color: #F6E3CE;
+  padding: 0px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 20px;
+
+}
+
+#tribute-info{
+ text-align: center;
+ font-size: 18px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+div{
+ text-align: center;
+  font-size: 18px;
+}
+
+ul { 
+  display: inline-block; 
+  text-align: justify;
+ } 
+
+#citação{
+  text-align: center;
+  font-size: 18px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+#citação1{
+   text-align: center;
+  font-size: 18px;
+}
+
+h3{
+text-align: center;
+}
